@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="DIBUJOS"
+   viewBox="0 0 708.13 398.41"
+   version="1.1"
+   sodipodi:docname="lampara-interruptor.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2215271"
+     inkscape:cx="353.65568"
+     inkscape:cy="199.34064"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5" />
+  <defs
+     id="defs3">
+    <style
+       id="style1">&#10;      .cls-1 {&#10;        fill: url(#Degradado_sin_nombre_10);&#10;      }&#10;&#10;      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {&#10;        stroke-width: 0px;&#10;      }&#10;&#10;      .cls-8 {&#10;        clip-path: url(#clippath);&#10;      }&#10;&#10;      .cls-2, .cls-9, .cls-10, .cls-11 {&#10;        fill: none;&#10;      }&#10;&#10;      .cls-12 {&#10;        stroke-width: 5px;&#10;      }&#10;&#10;      .cls-12, .cls-9 {&#10;        stroke: #ffc93c;&#10;      }&#10;&#10;      .cls-12, .cls-9, .cls-11 {&#10;        stroke-linejoin: round;&#10;      }&#10;&#10;      .cls-12, .cls-7 {&#10;        fill: #ffc93c;&#10;      }&#10;&#10;      .cls-9 {&#10;        stroke-width: 6.5px;&#10;      }&#10;&#10;      .cls-9, .cls-11 {&#10;        stroke-linecap: round;&#10;      }&#10;&#10;      .cls-10 {&#10;        stroke: #ff7b54;&#10;        stroke-miterlimit: 10;&#10;        stroke-width: 8px;&#10;      }&#10;&#10;      .cls-3 {&#10;        fill: #34c3ff;&#10;      }&#10;&#10;      .cls-4 {&#10;        fill: #1dae27;&#10;      }&#10;&#10;      .cls-5 {&#10;        fill: #1e5c93;&#10;      }&#10;&#10;      .cls-6 {&#10;        fill: #fff;&#10;      }&#10;&#10;      .cls-11 {&#10;        stroke: #fff;&#10;        stroke-width: 3px;&#10;      }&#10;    </style>
+    <clipPath
+       id="clippath">
+      <rect
+         class="cls-2"
+         x="0"
+         y="0"
+         width="708.12"
+         height="398.41"
+         id="rect1" />
+    </clipPath>
+    <linearGradient
+       id="Degradado_sin_nombre_10"
+       data-name="Degradado sin nombre 10"
+       x1="-444.10913"
+       y1="1569.8984"
+       x2="-442.77115"
+       y2="1569.8984"
+       gradientTransform="translate(-340109.11 96336.2) rotate(90) scale(216.89 -216.89)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#a184dc"
+         id="stop1"
+         style="stop-color:#ffc93c;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#7568c5"
+         id="stop3"
+         style="stop-color:#f6a227;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <g
+     class="cls-8"
+     clip-path="url(#clippath)"
+     id="g16">
+    <g
+       id="g15">
+      <rect
+         class="cls-1"
+         x="-14.17"
+         y="-14.17"
+         width="736.48"
+         height="426.75"
+         id="rect3"
+         style="fill:url(#Degradado_sin_nombre_10)" />
+      <g
+         id="g6">
+        <rect
+           class="cls-7"
+           x="449.26334"
+           y="117.37404"
+           width="125.90861"
+           height="173.78841"
+           id="rect4"
+           style="fill:#ffffff" />
+        <g
+           id="g5">
+          <rect
+             class="cls-3"
+             x="495.38995"
+             y="167.12653"
+             width="33.655315"
+             height="78.387398"
+             id="rect5" />
+          <path
+             class="cls-6"
+             d="M 525.26006,170.91176 V 241.7287 H 499.1752 v -70.81694 h 26.08486 m 7.57045,-7.57046 h -41.23905 v 85.95786 h 41.23905 z"
+             id="path5"
+             style="fill:#ffc93c;fill-opacity:1" />
+        </g>
+        <rect
+           class="cls-5"
+           x="499.17523"
+           y="235.12779"
+           width="26.084862"
+           height="6.600904"
+           id="rect6" />
+      </g>
+      <g
+         id="g10">
+        <path
+           class="cls-11"
+           d="m247.71,258.46s2.78-1.38,5.48-4.07c2.69-2.69,3.95-5.51,3.95-5.51"
+           id="path8" />
+        <path
+           class="cls-12"
+           d="m235.92,266.39c-17.96,0-29.45-16.52-29.45-28.01,0-21.31,14.72-20.35,14.72-39.74h29.33c0,15.32,15.08,22.75,15.08,38.31s-13.41,29.45-29.69,29.45Z"
+           id="path6"
+           style="fill:#34c3ff;fill-opacity:1;stroke:#34c3ff;stroke-opacity:1" />
+        <path
+           class="cls-10"
+           d="m240.61,111.72s-7.99-15.42-4.1-39.2c3.02-18.5,18.54-37.03,15.52-59.04-1.62-11.83-24.3-44.49-24.3-59.07"
+           id="path7" />
+        <path
+           class="cls-5"
+           d="m253.71,104.1s-3.71-9.7-17.72-9.7-17.62,9.7-17.62,9.7h35.34Z"
+           id="path9" />
+        <polygon
+           class="cls-5"
+           points="266.16 144.48 205.93 144.48 213.93 104.1 258.16 104.1 266.16 144.48"
+           id="polygon9" />
+        <path
+           class="cls-4"
+           d="m334.8,232.51h-197.52c0-54.54,44.22-98.76,98.76-98.76s98.76,44.22,98.76,98.76Z"
+           id="path10" />
+      </g>
+      <g
+         id="g14"
+         style="stroke:#34c3ff;stroke-opacity:1">
+        <line
+           class="cls-9"
+           x1="235.5"
+           y1="284.9"
+           x2="235.5"
+           y2="311.2"
+           id="line10"
+           style="stroke:#34c3ff;stroke-opacity:1" />
+        <line
+           class="cls-9"
+           x1="180.91"
+           y1="251.23"
+           x2="161.75"
+           y2="263.52"
+           id="line11"
+           style="stroke:#34c3ff;stroke-opacity:1" />
+        <line
+           class="cls-9"
+           x1="293.78"
+           y1="251.23"
+           x2="312.93"
+           y2="263.52"
+           id="line12"
+           style="stroke:#34c3ff;stroke-opacity:1" />
+        <line
+           class="cls-9"
+           x1="204.58"
+           y1="275.69"
+           x2="192.48"
+           y2="294.1"
+           id="line13"
+           style="stroke:#34c3ff;stroke-opacity:1" />
+        <line
+           class="cls-9"
+           x1="270.11"
+           y1="275.69"
+           x2="282.21"
+           y2="294.1"
+           id="line14"
+           style="stroke:#34c3ff;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
