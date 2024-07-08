@@ -48,6 +48,8 @@ function convertToString(...values) {
     return values.map(value => stringify(value)).join(', ');
 }
 
+setTimeout(() => {
+
 
 // define a new console
 var console=(function(oldCons){
@@ -80,7 +82,8 @@ var console=(function(oldCons){
         },
     };
 }(window.console));
-
+	alert("new console");
+}, 1000);
 //Then redefine the old console
 window.console = console;
 
