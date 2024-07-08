@@ -84,13 +84,6 @@ var console=(function(oldCons){
 }(window.console));
 
 window.console = console;	
-alert("new console");
-
-	
-}, 1000);
-//Then redefine the old console
-
-
 
 window.onerror = function(error, url, line) {
     //console.log({acc:'error', desc: error, line: line});
@@ -103,3 +96,10 @@ function sendConsole(el){
 		window.parent.postMessage({ptjCnsle: el}, '*');
 	}
 }
+	
+}, 100);
+//Then redefine the old console
+
+
+
+
