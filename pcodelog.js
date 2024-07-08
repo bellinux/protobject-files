@@ -82,10 +82,14 @@ var console=(function(oldCons){
         },
     };
 }(window.console));
-	alert("new console");
+
+window.console = console;	
+alert("new console");
+
+	
 }, 1000);
 //Then redefine the old console
-window.console = console;
+
 
 
 window.onerror = function(error, url, line) {
