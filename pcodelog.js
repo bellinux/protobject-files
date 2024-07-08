@@ -53,28 +53,28 @@ function convertToString(...values) {
 var console=(function(oldCons){
     return {
         log: function(...t){
-			txt=convertToString(...t);
+			let txt=convertToString(...t);
 			
             sendConsole({acc:'log', desc: txt, line: -1});
             // Your code
         },
         info: function (...t) {
-			txt=convertToString(...t);
+			let txt=convertToString(...t);
             sendConsole({acc:'inf', desc: txt, line: -1});
             // Your code
         },
         warn: function (...t) {
-			txt=convertToString(t);
+			let txt=convertToString(t);
             sendConsole({acc:'war', desc: txt, line: -1});
             // Your code
         },
 		error: function (...t) {
-			txt=convertToString(...t);
+			let txt=convertToString(...t);
             sendConsole({acc:'err', desc: txt, line: -1});
             // Your code
         },
 		debug: function (...t) {
-			txt=convertToString(...t);
+			let txt=convertToString(...t);
             sendConsole({acc:'inf', desc: txt, line: -1});
             // Your code
         },
